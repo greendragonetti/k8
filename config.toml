@@ -42,8 +42,6 @@ identifier = "writing" # this page will refer to a markdown file named "blog" in
 pre = "<br />"
 url = "/writing"
 weight = 40
-[permalinks]
-post = "/k8/"​
 [sitemap]
 ChangeFreq = ""
 Filename = "sitemap.xml"
