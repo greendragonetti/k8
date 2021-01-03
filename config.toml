@@ -1,4 +1,4 @@
-baseurl = "https://k8.github.io/"
+baseurl = "https://kdragonetti.github.io/"
 languageCode = "en-us"
 title = "About Kate"
 theme = "hugo-theme-casper"
